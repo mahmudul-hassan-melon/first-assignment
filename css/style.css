@@ -33,3 +33,25 @@ background-image: url("img/top-banner.png");
     margin-top: 20px;
     
 }
+.Project h1{
+    text-align: center;
+   
+}
+.work{
+    height:100px ;
+    width: 20%;
+    float: left;
+    margin: 6%;
+    text-align: center;
+  
+    }
+.work img{
+    width:200px;
+    height: 100px;
+}   
+.work h2{
+    font-size: medium;
+}
+.work p{
+    font-size: 15px;
+}
